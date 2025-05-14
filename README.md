@@ -48,9 +48,9 @@ O IMC calculado é classificado conforme a tabela:
 
 ## 📷 Captura de Tela
 <p align="center">
-  <img src="assets/screenshot1.png" alt="Tela 1" width="30%" />
-  <img src="assets/screenshot2.png" alt="Tela 2" width="30%" />
-  <img src="assets/screenshot3.png" alt="Tela 3" width="30%" />
+  <img src="assets/Screenshot1.jpeg" alt="Tela 1" width="30%" />
+  <img src="assets/Screenshot2.jpeg" alt="Tela 2" width="30%" />
+  <img src="assets/Screenshot3.jpeg" alt="Tela 3" width="30%" />
 </p>
 
 ---
