@@ -47,8 +47,39 @@ O IMC calculado é classificado conforme a tabela:
 ---
 
 ## 📷 Captura de Tela
-> 
+<p align="center">
+  <img src="assets/screenshot1.png" alt="Tela 1" width="30%" />
+  <img src="assets/screenshot2.png" alt="Tela 2" width="30%" />
+  <img src="assets/screenshot3.png" alt="Tela 3" width="30%" />
+</p>
 
 ---
+
+## 📦 Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/gabriel-smartins/Calculadora-IMC.git
+   cd Calculadora-IMC
+   ```
+
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
+
+3. Rode o projeto:
+   ```bash
+   npx react-native run-android
+   ```
+   ou
+   ```bash
+   npx expo start
+   ```
+
+---
+
+## ✍️ Autor
+Desenvolvido por Gabriel Martins – sinta-se livre para usar e modificar.
 
 
