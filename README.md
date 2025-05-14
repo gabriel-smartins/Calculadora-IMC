@@ -79,7 +79,5 @@ O IMC calculado é classificado conforme a tabela:
 
 ---
 
-## ✍️ Autor
-Desenvolvido por Gabriel Martins – sinta-se livre para usar e modificar.
 
 
