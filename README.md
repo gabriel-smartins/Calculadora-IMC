@@ -8,10 +8,8 @@ Este aplicativo foi desenvolvido em **React Native** e tem como objetivo permiti
 
 ### 🔢 Cálculo de IMC
 - O usuário informa seu **peso (em kg)** e **altura (em metros)**.
-- Ao clicar em **"Calcular"**, o app calcula o IMC com a fórmula:
-  \[
-  \text{IMC} = \frac{\text{peso}}{\text{altura}^2}
-  \]
+- Ao clicar em **"Calcular"**, o app calcula o IMC.
+ 
 
 ### 📊 Classificação do IMC
 O IMC calculado é classificado conforme a tabela:
